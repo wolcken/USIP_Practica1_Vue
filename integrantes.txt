@@ -1,0 +1,9 @@
+Practica1 Vue3
+
+Nombre(s) de integrante(s):
+- Luis Alfredo Ramos Velasco
+
+Pasos para iniciar el proyecto
+1) npm install
+2) npm run start:json-server
+3) npm run serve

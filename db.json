@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": "3e32",
+      "name": "Alfredo Ramos",
+      "email": "Alfredoxd00@hotmail.com",
+      "address": "Av 8 Nro 22A Alto Lima",
+      "phone": "78939804",
+      "country": "Bolivia",
+      "city": "La Paz"
+    },
+    {
+      "id": "3373",
+      "name": "Luis Velasco",
+      "email": "Luis396@gmail.com",
+      "address": "Calle Sorata",
+      "phone": "55478511",
+      "country": "Bolivia",
+      "city": "Santa Cruz"
+    }
+  ]
+}
